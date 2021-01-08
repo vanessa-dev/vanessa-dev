@@ -1,6 +1,6 @@
 # Olá, Meu nome é Vanessa!
 
-![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white?url=https://www.linkedin.com/in/vanessa-santana-a40561171/)
+[![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-santana-a40561171/)
 
 ## Sobre Mim
 
