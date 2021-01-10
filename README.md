@@ -26,4 +26,4 @@ Estudando Frameworks JavaScript: React e ReactNative.
 
 ##
 
-> Você sabe nadar? Não, mas sei aprender. ~Meri( 2 anos ).
+> Você sabe nadar ? Não, mas sei aprender. ~Meri( 2 anos ).
