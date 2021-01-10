@@ -23,3 +23,7 @@ Estudando Frameworks JavaScript: React e ReactNative.
 ![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+##
+
+> Você sabe nadar? Não, mas sei aprender. ~Meri(2 anos).
