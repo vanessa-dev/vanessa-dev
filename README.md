@@ -8,7 +8,7 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 
 Atualmente trabalho com Desenvolvimento Web responsável pela criação de interfaces , correção de bugs, implementações de testes automatizados, criação e manutenção de estrutura de base de dados, implementacao do backend.
 
-Estudando Frameworks JavaScript: React e ReactNative.
+Estudando Frameworks JavaScript: React, ReactNative e TypeScript.
 
 ## Liguagens e Tecnologias Usadas
 
@@ -27,3 +27,4 @@ Estudando Frameworks JavaScript: React e ReactNative.
 ##
 
 > Você sabe nadar ? Não, mas sei aprender. ~Meri( 2 anos ).
+> Aqueles que alcançam seus objetivos não são aqueles que não caem, mas sim aqueles que não desistem!
