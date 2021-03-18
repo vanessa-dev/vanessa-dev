@@ -8,7 +8,7 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 
 Atualmente trabalho com Desenvolvimento Web responsável pela criação de interfaces , correção de bugs, implementações de testes automatizados, criação e manutenção de estrutura de base de dados, implementacao do backend.
 
-Estudando Frameworks JavaScript: React, ReactNative e TypeScript.
+Estudando: React,ReactNative,NodeJs e TypeScript.
 
 ## Liguagens e Tecnologias Usadas
 
