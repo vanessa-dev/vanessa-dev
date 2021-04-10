@@ -27,6 +27,6 @@ Learning: React, ReactNative, NodeJs e TypeScript.
 
 ##
 
-> Do you known to swim? No, but i know how to learn.~Meri( 2 anos ).
+> Do you known to swim? No, but I know how to learn.~Meri( 2 anos ).
 > 
 > Those catch up their goals aren't those who do not fall, but those who do not give up!
