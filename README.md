@@ -1,16 +1,17 @@
-# Olá, Meu nome é Vanessa!
+# Hi, I'm Vanessa! :information_desk_person: 
 
 [![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-santana-a40561171/)
 
-## Sobre Mim
+## About me
 
-Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vida das pessoas com ela, com grande vontade de sempre estar adquirindo conhecimento.
+I'm fall in love for technology and the possibility of transforming people's lives a little bit with it,
+with a big desire always be acquiring knowledge. 
 
-Atualmente trabalho com Desenvolvimento Web responsável pela criação de interfaces , correção de bugs, implementações de testes automatizados, criação e manutenção de estrutura de base de dados, implementacao do backend.
+Actually I work as Web Developer responsible for create interfaces, fix bugs, automated test implementations, create and maintenance database structure, backend implementation.
 
-Estudando: React, ReactNative, NodeJs e TypeScript.
+Learning: React, ReactNative, NodeJs e TypeScript.
 
-## Liguagens e Tecnologias Usadas
+## Languages and technologies used 
 
 ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +27,6 @@ Estudando: React, ReactNative, NodeJs e TypeScript.
 
 ##
 
-> Você sabe nadar ? Não, mas sei aprender. ~Meri( 2 anos ).
+> Do you known to swim? No, but i know how to learn.~Meri( 2 anos ).
 > 
-> Aqueles que alcançam seus objetivos não são aqueles que não caem, mas sim aqueles que não desistem!
+> Those catch up their goals aren't those who do not fall, but those who do not give up!
