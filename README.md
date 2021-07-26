@@ -30,3 +30,6 @@ Learning: React, ReactNative, NodeJs e TypeScript.
 > Do you known how to swim? No, but I know how to learn.~Meri( 2 years old ).
 > 
 > Those catch up their goals aren't those who do not fall, but those who do not give up!
+>
+>A person who never made a mistake never tried anything new.~Albert Einstein
+
