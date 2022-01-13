@@ -9,7 +9,7 @@ with a big desire always be acquiring knowledge.
 
 Actually I work as Web Developer responsible for create interfaces, fix bugs, automated test implementations, create and maintenance database structure, backend implementation.
 
-Learning: React, ReactNative, NodeJs e TypeScript.
+Learning: React
 
 ## Languages and technologies used 
 
