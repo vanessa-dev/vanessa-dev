@@ -1,4 +1,4 @@
-# Hi, I'm Vanessa! :information_desk_person: 
+# Hi, I'm Vanessa! :information_desk_person: [![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-dev/)
 <div align="left">
 <a href="https://app.daily.dev/Vanessa" target="_blank">
     <img
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-[![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-santana-a40561171/)
+
 
 ## About me
 
