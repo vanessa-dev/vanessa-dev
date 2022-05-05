@@ -4,7 +4,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/53b897c2cd2d443ab289eebb8f39b3c8.png?r=8l5"
+      src="https://raw.githubusercontent.com/vanessa-dev/vanessa-dev/devcard/devcard.svg"
       alt="Vanessa Santana's Dev Card"
     />
   </a>
