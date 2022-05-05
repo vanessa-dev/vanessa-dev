@@ -1,7 +1,16 @@
 # Hi, I'm Vanessa! :information_desk_person: 
+<div align="left">
+<a href="https://app.daily.dev/Vanessa" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/53b897c2cd2d443ab289eebb8f39b3c8.png?r=8l5"
+      alt="Vanessa Santana's Dev Card"
+    />
+  </a>
+</div>
 
 [![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-santana-a40561171/)
-<a href="https://app.daily.dev/Vanessa"><img src="https://api.daily.dev/devcards/53b897c2cd2d443ab289eebb8f39b3c8.png?r=8l5" width="400" alt="Vanessa Santana's Dev Card"/></a>
 
 ## About me
 
