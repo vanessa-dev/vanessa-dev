@@ -11,7 +11,7 @@
 </div>
 
 
-## About me
+
 
 I'm fall in love for technology and the possibility of transforming people's lives a little bit with it,
 with a big desire always be acquiring knowledge. 
