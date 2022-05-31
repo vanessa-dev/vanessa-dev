@@ -1,4 +1,4 @@
-# Hi, I'm Vanessa! :information_desk_person: 
+<img src="header.svg" alt="Header">
 <div align="left">
 <a href="https://app.daily.dev/Vanessa" target="_blank">
     <img
