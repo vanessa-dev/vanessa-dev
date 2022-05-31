@@ -10,7 +10,6 @@
   </a>
 </div>
 
-[![Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-dev/)
 
 ## About me
 
