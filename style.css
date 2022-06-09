@@ -1,3 +1,7 @@
-.auto {
+div {
   clear: both !important;
+}
+
+h2 {
+  color: #1e1bc4;
 }
