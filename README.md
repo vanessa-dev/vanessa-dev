@@ -17,8 +17,6 @@ I'm fall in love for technology and the possibility of transforming people's liv
 with a big desire always be acquiring knowledge. 
 
 Actually I work as Web Developer responsible for create interfaces, fix bugs, automated test implementations, create and maintenance database structure, backend implementation.
-
-Learning: React
 </div>
 
 ## Languages and technologies used 
