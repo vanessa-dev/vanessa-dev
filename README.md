@@ -33,6 +33,7 @@ Actually I work as Web Developer responsible for create interfaces, fix bugs, au
 ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Badge](https://img.shields.io/badge/Docker-0052ef?style=for-the-badge&logo=Docker&logoColor=white)
+![Badge](https://img.shields.io/badge/Aws-ec7211?style=for-the-badge&logo=Amazon&logoColor=white)
 
 ##
 
