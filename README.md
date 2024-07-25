@@ -1,17 +1,4 @@
 <img src="header.svg" alt="Header">
-<div align="left">
-<a href="https://app.daily.dev/Vanessa" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="devcard.svg"
-      alt="Vanessa Santana's Dev Card"
-    />
-  </a>
-</div>
-
-
-<div style="clear:both;">
 
 I'm fall in love for technology and the possibility of transforming people's lives a little bit with it,
 with a big desire always be acquiring knowledge. 
@@ -42,4 +29,16 @@ Actually I work as Web Developer responsible for create interfaces, fix bugs, au
 > Those catch up their goals aren't those who do not fall, but those who do not give up!
 >
 >A person who never made a mistake never tried anything new.~Albert Einstein
+##
+<div>
+    <a href="https://app.daily.dev/Vanessa" target="_blank">
+    <img
+      width="256"
+      src="devcard.svg"
+      alt="Vanessa Santana's Dev Card"
+    />
+  </a>
+</div>
+
+
 
