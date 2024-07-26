@@ -30,7 +30,7 @@ Actually I work as Web Developer responsible for create interfaces, fix bugs, au
 >
 >A person who never made a mistake never tried anything new.~Albert Einstein
 ##
-<div>
+<div align="center>
     <a href="https://app.daily.dev/Vanessa" target="_blank">
     <img
       width="256"
@@ -38,7 +38,7 @@ Actually I work as Web Developer responsible for create interfaces, fix bugs, au
       alt="Vanessa Santana's Dev Card"
     />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-dev&layout=compact&theme=dracula" height="100%"/>
 </div>
-
 
 
