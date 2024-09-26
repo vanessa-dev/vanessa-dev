@@ -15,4 +15,5 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          devcard_id: "53b897c2cd2d443ab289eebb8f39b3c8"
+          # devcard_id: "53b897c2cd2d443ab289eebb8f39b3c8"
+          devcard_id: "QlchbvX67"
