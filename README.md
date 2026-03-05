@@ -38,7 +38,6 @@ Actually I work as Web Developer responsible for create interfaces, fix bugs, au
       alt="Vanessa Santana's Dev Card"
     />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-dev&layout=compact&theme=dracula" height="100%"/>
 </div>
 
 
